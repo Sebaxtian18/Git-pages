@@ -4,7 +4,7 @@
 ## Sesión 2
 
 
-<!-- Su documentación aquí -->
+## La actividad 2 se realizo en clase.
 
 
 
