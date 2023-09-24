@@ -4,9 +4,7 @@
 ## Sesión 6
 
 
-<!-- Su documentación aquí -->
-
-
+# En esta sesion fue el examen de conocimiento del primer momento.
 
 
 
