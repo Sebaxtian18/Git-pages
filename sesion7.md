@@ -11,7 +11,9 @@ Ejemplo Array
 2. Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.
 # Solucion
 1.
+
 ```java 
+
 import java.util.Arrays;
 
 /**
@@ -48,10 +50,14 @@ public class Mavenproject1 {
         System.out.println("Array ordenado: " + Arrays.toString(numeros));
     }
 }
+
 ```
 2. 
+
 ### Ejemplo de Array. 
+
 ```java
+
 /**
  *
  * @author zseba
@@ -82,10 +88,12 @@ public class Mavenproject1 {
         }
     }
 }
+
 ```
 ### Ejemplo de ArrayList
 
 ```java
+
 import java.util.ArrayList;
 
 /**
@@ -128,5 +136,5 @@ public class Mavenproject1 {
         System.out.println(size);
     }
 }        
+
 ```
-        
