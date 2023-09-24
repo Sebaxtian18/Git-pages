@@ -10,7 +10,7 @@
 Ejemplo Array
 2. Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.
 # Solucion
-1.
+
 
 ```java 
 
@@ -52,7 +52,7 @@ public class Mavenproject1 {
 }
 
 ```
-2. 
+# 2. Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.
 
 ### Ejemplo de Array. 
 
