@@ -14,7 +14,6 @@ Implementar los siguientes métodos:
 5. Escribe un método que reciba una cadena de texto como parámetro y devuelva una nueva cadena con todas las palabras en orden alfabético.
 
 # Solución
-1. 
 
 ```java
     import java.util.Scanner;
@@ -53,7 +52,6 @@ public class Mavenproject4 {
 }
 
 ```
-2. 
 
 ```java
     import java.util.Scanner;
@@ -96,7 +94,6 @@ public class Mavenproject4 {
 }
 
 ```
-3. 
 
 ```java
     /**
@@ -125,7 +122,6 @@ public class Mavenproject4 {
 }
 
 ```
-4. 
 
 ```java
     /**
@@ -152,7 +148,6 @@ public class Mavenproject4 {
 }
 
 ```
-5. 
 
 ```java
     /**
