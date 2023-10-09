@@ -15,6 +15,7 @@ Implementar los siguientes métodos:
 
 # Solución
 1. 
+
 ```java
     import java.util.Scanner;
 
@@ -50,8 +51,10 @@ public class Mavenproject4 {
         System.out.println("Hola bienvenid@");
     }
 }
+
 ```
 2. 
+
 ```java
     import java.util.Scanner;
 
@@ -91,8 +94,10 @@ public class Mavenproject4 {
         return contador;
     }
 }
+
 ```
 3. 
+
 ```java
     /**
  *
@@ -118,8 +123,10 @@ public class Mavenproject4 {
         return new String(letras);
     }
 }
+
 ```
 4. 
+
 ```java
     /**
  *
@@ -143,8 +150,10 @@ public class Mavenproject4 {
     }
 
 }
+
 ```
 5. 
+
 ```java
     /**
  *
